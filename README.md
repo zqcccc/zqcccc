@@ -4,6 +4,8 @@
 
 [![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)](https://zqc.onlylike.work/)
 
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://a.onlylike.work/post)
+
 
 <!-- ### Platform&Tools -->
 
