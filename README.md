@@ -2,9 +2,9 @@
 
 ### My blog
 
-[![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)](https://zqc.onlylike.work/)
+[![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)](https://zqc.onlylike.work/) https://github.com/zqcccc/gatsby-blog
 
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://a.onlylike.work/post)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://a.onlylike.work/post) https://github.com/zqcccc/misc
 
 
 <!-- ### Platform&Tools -->
