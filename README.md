@@ -6,7 +6,7 @@
 <!-- https://github.com/zqcccc/gatsby-blog  -->
 
 
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://a.onlylike.work/post) 
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://onlylike.work) 
 
 https://github.com/zqcccc/misc
 
