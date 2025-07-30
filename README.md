@@ -8,6 +8,8 @@
 
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://onlylike.work) 
 
+[个人博客](https://onlylike.work)
+
 https://github.com/zqcccc/misc
 
 
